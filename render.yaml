@@ -24,7 +24,4 @@ services:
     staticPublishPath: frontend/build
     envVars:
       - key: REACT_APP_API_URL
-        fromService:
-          type: web
-          name: ecom-backend
-          property: url
+        sync: false
