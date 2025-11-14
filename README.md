@@ -15,8 +15,8 @@ A modern, full-featured e-commerce application built with MongoDB, Express, Reac
 - ✅ Pagination
 - ✅ Related Products
 - ✅ Product Variants (Color, Size)
-- 
-### UI/UX Features
+  
+- ### UI/UX Features
 - ✅ Responsive Mobile Design
 - ✅ Toast Notifications
 - ✅ Loading States
