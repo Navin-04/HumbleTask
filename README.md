@@ -15,10 +15,8 @@ A modern, full-featured e-commerce application built with MongoDB, Express, Reac
 - ✅ Pagination
 - ✅ Related Products
 - ✅ Product Variants (Color, Size)
-- ✅ Discount & Sale Management
-
+- 
 ### UI/UX Features
-- ✅ Amazon/Flipkart-style Modern Design
 - ✅ Responsive Mobile Design
 - ✅ Toast Notifications
 - ✅ Loading States
@@ -35,7 +33,7 @@ A modern, full-featured e-commerce application built with MongoDB, Express, Reac
 - **Axios** - HTTP Client
 - **React Icons** - Icon Library
 - **React Toastify** - Toast Notifications
-- **CSS3** - Styling (Amazon/Flipkart inspired)
+- **CSS3** - Styling 
 
 ### Backend
 - **Node.js** - Runtime
@@ -43,7 +41,6 @@ A modern, full-featured e-commerce application built with MongoDB, Express, Reac
 - **MongoDB** - Database
 - **Mongoose** - ODM
 - **JWT** - Authentication
-- **Multer** - File Uploads (ready to use)
 
 ## Installation
 
@@ -122,14 +119,3 @@ ecom/
 - `GET /api/wishlist` - Get user wishlist
 - `POST /api/wishlist` - Add product to wishlist
 - `DELETE /api/wishlist/:productId` - Remove from wishlist
-
-## 📋 Next Steps
-
-See **[IMMEDIATE_NEXT_STEPS.md](./IMMEDIATE_NEXT_STEPS.md)** for detailed next steps including:
-- Admin Dashboard
-- Image Upload
-- Payment Integration
-- User Profile
-- Email Notifications
-- And more...
-
